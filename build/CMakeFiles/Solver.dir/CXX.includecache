@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/NLSSolver.hpp
+eigen3/Eigen/Dense
+-
+vector
+-
+iostream
+-
+algorithm
+-
+
+/home/daojun/myProjects/NLSSolver/src/NLSSolver.cpp
+NLSSolver.hpp
+/home/daojun/myProjects/NLSSolver/src/NLSSolver.hpp
+
+/home/daojun/myProjects/NLSSolver/test/main.cpp
+NLSSolver.hpp
+/home/daojun/myProjects/NLSSolver/test/NLSSolver.hpp
+random
+-
+

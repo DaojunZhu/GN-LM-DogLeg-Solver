@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -g -Wall -g   CMakeFiles/Solver.dir/test/main.cpp.o CMakeFiles/Solver.dir/src/NLSSolver.cpp.o  -o Solver 
